@@ -1,6 +1,6 @@
 <div class="param" style="
-background-color: #b7dcd7;
-border: navy;
+background-color: #ffe38d;
+border: black;
 display: block;
 height: 200px;
 max-width: 500px;
